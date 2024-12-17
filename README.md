@@ -9,7 +9,7 @@
     - Player 4: U and O
 
 # Demonstration Video
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/syIAsYq1-eY)
 
 
 # Development Environment
